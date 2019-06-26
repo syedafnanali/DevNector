@@ -1,3 +1,6 @@
 {
-    "mongoURI": "mongodb+srv://syed:syed123@devnector-qnk4g.mongodb.net/test?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://syed:syed123@devnector-qnk4g.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mySecretToken",
+  "githubClientId": "dbb84f6ede72ee6eddb1",
+  "githubClientSecret": "351f79e1c2cf0ccf36cee9be346c6bc51e9caf7d"
 }
